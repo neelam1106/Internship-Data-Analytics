@@ -1,26 +1,30 @@
-# -PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING
+**Project Name:** Predictive Analysis using Machine Learning
+**Duration:** 09 Sep 2025 – 16 Sep 2025
+**Hours:** 18
 
-COMPANY NAME : CODTECH IT SOLTIONS PVT.LTD
+**Description:**
+This project applied supervised machine learning techniques to predict target variables based on structured datasets. The analysis included regression modeling, feature selection, and model evaluation.
 
-NAME :  NEELAM SURESH GUPTA
+**Objectives:**
 
-INTERN ID: CITS0D780
+* Perform feature selection and check multicollinearity
+* Train baseline regression models
+* Apply log transformation to target variable for improved accuracy
+* Test Ridge and Lasso regression models
+* Evaluate model performance and residuals
 
-DOMAIN : DATA ANALYTICS 
+**Tools & Technologies:**
 
-DURATION : 8 WEEKS
+* Python
+* Scikit-learn
+* Pandas / NumPy
+* Matplotlib / Seaborn
 
-MENTOR : NEELA SANTOSH 
+**Tasks Completed:**
 
-DESCRIPTION: This task is about predicting house prices using Linear Regression in Python. I began by loading a dataset from a CSV file using the pandas library.
-The dataset contains details about houses, such as the number of bedrooms, bathrooms, living area size, lot size, number of floors, whether the house is on the waterfront, 
-view rating, and condition. My target is to predict the price of the house.
-
-First, I performed Exploratory Data Analysis (EDA) to understand the dataset. I looked at the first few rows to get an overview, checked summary statistics like average values
-and ranges, and identified any missing values. I also created a correlation heatmap to see how each feature relates to others, especially the price. Next, I selected specific
-columns as features (X) and used the house price as the target variable (y). I split the dataset into a training set (80%) and a testing set (20%) using 
-train_test_split so I could train the model and then test it on unseen data.
-
-I used Linear Regression from scikit-learn to train the model. Once the training was complete, I predicted prices for the test data. To check the model’s performance, 
-I calculated the Mean Squared Error (MSE) and the R-squared (R²) score. MSE helped me see how far my predictions were from the actual values, while R² showed me how well 
-the model explains the variation in prices
+1. Selected relevant features and checked multicollinearity
+2. Trained baseline Linear Regression model
+3. Encoded categorical variables
+4. Applied Ridge and Lasso regression with cross-validation
+5. Analyzed residuals and model coefficients
+6. Tested single prediction utility and documented findings
