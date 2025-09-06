@@ -1,0 +1,36 @@
+** README – Power BI Dashboards (Americana, Customer Segmentation, Blinkit)**
+
+**Project Name:** Power BI Dashboards
+
+
+**Description:**
+This project involved creating **3 interactive dashboards** in Power BI to visualize sales and customer insights for Americana, Customer Segmentation, and Blinkit datasets.
+
+**Objectives:**
+
+* Design dashboards with KPIs, charts, slicers, and filters
+* Present actionable insights for business decisions
+* Ensure formatting consistency and interactivity
+
+**Tools & Technologies:**
+
+* Power BI Desktop
+* DAX (for calculations)
+* Imported datasets from Python analysis
+
+**Tasks Completed:**
+**Americana Dashboard:**
+
+* Imported dataset, visualized sales trends and units sold
+* Added filters, slicers, KPI cards, formatting, and tooltips
+
+**Customer Segmentation Dashboard:**
+
+* Visualized customer segment distribution, total purchases, and monthly trends
+* Added slicers, KPI cards, and finalized formatting
+
+**Blinkit Dashboard:**
+
+* Imported dataset, visualized sales, ratings, and item type
+* Added filters, KPIs, conditional formatting, and extra insights
+* Finalized charts, interactive features, and QA for consistency
