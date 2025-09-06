@@ -1,0 +1,29 @@
+README – Big Data Analysis using Dask (Airlines)**
+
+**Project Name:** Big Data Analysis using Dask (Airlines)
+
+**Description:**
+This project involved analyzing airline datasets using Dask to handle large-scale data efficiently. The analysis focused on daily and weekly flight patterns, cancellations, delays, and correlation among key metrics.
+
+**Objectives:**
+
+* Explore airline data for trends and patterns
+* Handle large datasets efficiently with Dask
+* Perform EDA: flights per day, cancelled flights, departure/arrival delays
+* Create visualizations to present insights
+
+**Tools & Technologies:**
+
+* Python
+* Dask
+* Matplotlib / HvPlot
+* Pandas
+
+**Tasks Completed:**
+
+1. Installed libraries and set up Dask client
+2. Loaded datasets, checked schema, partitions, and null values
+3. Performed exploratory data analysis (flights/day, cancellations/day)
+4. Calculated departure & arrival delays per airline
+5. Correlation analysis and persisted datasets
+6. Repartitioned datasets and visualized top airports by delays
