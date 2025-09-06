@@ -1,0 +1,28 @@
+README – Blinkit Data Analysis**
+
+**Project Name:** Blinkit Data Analysis
+
+**Description:**
+Analysis of Blinkit sales dataset to extract insights about sales, ratings, item types, and outlet performance.
+
+**Objectives:**
+
+* Clean and preprocess Blinkit dataset
+* Perform feature engineering (dates, ratings, outlet size)
+* Conduct EDA: total sales, item-wise performance, ratings distribution
+* Generate visualizations for reporting and dashboard preparation
+
+**Tools & Technologies:**
+
+* Python
+* Pandas / Dask
+* Matplotlib / Seaborn / HvPlot
+
+**Tasks Completed:**
+
+1. Loaded dataset and handled missing values
+2. Feature engineering: parsed dates, calculated ratings and outlet size metrics
+3. Grouped data to compute sales per item type and per outlet
+4. Generated bar charts, scatter plots, and summary statistics
+5. Saved smaller sample dataset for faster processing
+6. Validated final dataset for downstream dashboard use
