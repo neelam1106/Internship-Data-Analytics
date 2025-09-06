@@ -1,5 +1,5 @@
 
-## **4️ README – Data Analysis using PySpark**
+## **4 README – Data Analysis using PySpark**
 
 **Project Name:** Data Analysis using PySpark
 
